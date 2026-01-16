@@ -11,6 +11,8 @@ Teste Técnico DClick: Automação em Python para baixar uma planilha xlsx e dep
 
 ## Requisitos
 - Python 3.1x
+- **Google Chrome** instalado no sistema.
+
 - Bibliotecas:
   - `selenium` (para automação no navegador)
   - `pandas` (para manipulação de dados)
